@@ -1,1 +1,3 @@
-print("arquivo 2!")
+
+
+print(len(input("Digite seu nome:")))
